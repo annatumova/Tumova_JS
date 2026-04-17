@@ -1,15 +1,21 @@
 alert("Ahoj")
 
+// proměnné pro jména
+
 let userName = "Pepíček";
 console.log(userName);
-
-let age = 17; 
-console.log(age);
 
 userName = "Adélka";
 console.log(userName);
 
-let age = 16;
-console.log(age);
+let ageP = 16;
+console.log(ageP);
 
-console.log(17 + 16);
+let ageA = 16;
+console.log(ageA)
+
+let soucet = ageP + ageA;
+console.log(soucet)
+
+let text = usernameL + " a " + username + " mají " + soucet + " let. "
+console.log(text)
