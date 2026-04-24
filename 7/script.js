@@ -5,7 +5,7 @@ while (counter < 10) {
     if (counter === 7) {
         message = "7 je tady";
     }
-    console.log(message)
+    console.log(message);
     counter++;
 }
  
